@@ -41,7 +41,7 @@ Sistema de cajero automático desarrollado en C# como proyecto universitario. Pe
 ## Capturas del proyecto
 
 ### Depósito exitoso
-![Depósito exitoso](captura_deposito.png)
+![Depósito exitoso](Captura_deposito.png)
 
 ### Validación de PIN incorrecto
 ![PIN incorrecto](Captura_pin_incorrecto.png..png)
