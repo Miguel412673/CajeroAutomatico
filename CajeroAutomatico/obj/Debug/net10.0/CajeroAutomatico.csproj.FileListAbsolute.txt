@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net10.0\CajeroAutomatico.exe
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net10.0\CajeroAutomatico.deps.json
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net10.0\CajeroAutomatico.runtimeconfig.json
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net10.0\CajeroAutomatico.dll
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net10.0\CajeroAutomatico.pdb
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\CajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\CajeroAutomatico.AssemblyInfo.cs
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\CajeroAutomatico.dll
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\refint\CajeroAutomatico.dll
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\CajeroAutomatico.pdb
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\CajeroAutomatico.genruntimeconfig.cache
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\ref\CajeroAutomatico.dll
+C:\Users\User\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net10.0\CajeroAu.888BB9F8.Up2Date
