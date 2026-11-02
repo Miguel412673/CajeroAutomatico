@@ -41,3 +41,10 @@ Sistema de cajero automático desarrollado en C# como proyecto universitario. Pe
 7. Capturas de pantalla
 
 Se agregarán capturas de pantalla de las operaciones exitosas y de las validaciones del sistema.
+## Capturas del proyecto
+
+### Depósito exitoso
+![Depósito exitoso](captura_deposito.png)
+
+### Validación de PIN incorrecto
+![PIN incorrecto](captura_pin_incorrecto.png)
