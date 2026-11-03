@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\bin\Debug\net10.0\SimuladorPrestamo.exe
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\bin\Debug\net10.0\SimuladorPrestamo.deps.json
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\bin\Debug\net10.0\SimuladorPrestamo.runtimeconfig.json
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\bin\Debug\net10.0\SimuladorPrestamo.dll
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\bin\Debug\net10.0\SimuladorPrestamo.pdb
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\SimuladorPrestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\SimuladorPrestamo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\SimuladorPrestamo.AssemblyInfo.cs
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\SimuladorPrestamo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\SimuladorPrestamo.dll
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\refint\SimuladorPrestamo.dll
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\SimuladorPrestamo.pdb
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\SimuladorPrestamo.genruntimeconfig.cache
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\ref\SimuladorPrestamo.dll
+C:\Users\User\source\repos\SimuladorPrestamo\SimuladorPrestamo\obj\Debug\net10.0\Simulado.CA78CD24.Up2Date
