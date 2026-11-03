@@ -71,10 +71,10 @@ Aplicación desarrollada en C# que permite simular préstamos, calcular las cuot
 ## 5. Capturas del proyecto
 
 ### Categoría A
-![Captura Categoría A](./SimuladorPrestamo/Captura-Categoria%20A.png)
+![Captura Categoría A](./SimuladorPrestamo/SimuladorPrestamo/Captura-Categoria%20A.png)
 
 ### Categoría B
-![Captura Categoría B](./SimuladorPrestamo/Captura-Categoria%20B.png)
+![Captura Categoría B](./SimuladorPrestamo/SimuladorPrestamo/Captura-Categoria%20B.png)
 
 ### Categoría C
-![Captura Categoría C](./SimuladorPrestamo/Captura-Categoria%20C.png)
+![Captura Categoría C](./SimuladorPrestamo/SimuladorPrestamo/Captura-Categoria%20C.png)
