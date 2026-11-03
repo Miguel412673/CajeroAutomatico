@@ -1,0 +1,8 @@
+# Archivos generados por Visual Studio
+.vs/
+bin/
+obj/
+
+# Archivos temporales
+*.user
+*.suo
