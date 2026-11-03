@@ -45,3 +45,36 @@ Sistema de cajero automático desarrollado en C# como proyecto universitario. Pe
 
 ### Validación de PIN incorrecto
 ![PIN incorrecto](Captura_pin_incorrecto.png..png)
+---
+
+# Ejercicio 2: Simulador de Préstamo
+
+## 1. Descripción del proyecto
+Aplicación desarrollada en C# que permite simular préstamos, calcular las cuotas mensuales y visualizar una tabla de amortización con el desglose del capital, los intereses y el saldo pendiente.
+
+## 2. Funcionalidades principales
+- Ingreso del monto del préstamo.
+- Selección de la tasa de interés.
+- Definición del plazo de pago.
+- Cálculo de la cuota mensual.
+- Generación de la tabla de amortización.
+- Visualización del total pagado y los intereses acumulados.
+
+## 3. Tecnología utilizada
+- Lenguaje: C#
+- Entorno de desarrollo: Visual Studio
+- Plataforma: .NET
+
+## 4. Código fuente
+[Ver proyecto Simulador de Préstamo](./SimuladorPrestamo/)
+
+## 5. Capturas del proyecto
+
+### Categoría A
+![Captura Categoría A](./SimuladorPrestamo/Captura-Categoria%20A.png)
+
+### Categoría B
+![Captura Categoría B](./SimuladorPrestamo/Captura-Categoria%20B.png)
+
+### Categoría C
+![Captura Categoría C](./SimuladorPrestamo/Captura-Categoria%20C.png)
